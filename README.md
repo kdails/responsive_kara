@@ -1,1 +1,2 @@
-# responsive_kara
+# portfolio_kara
+kara's portfolio
